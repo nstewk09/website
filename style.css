@@ -7,4 +7,6 @@ body {
     font-family: 'Google Sans Flex', sans-serif;
     background: #f8e5cc;
     color: #3e3734;
+    line-height: 9px;
+    font-size: 18px;
 }
